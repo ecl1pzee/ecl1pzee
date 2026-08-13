@@ -8,6 +8,7 @@ I know the following programming languages
 - HTML
 - CSS
 - C
+- Kotlin
 
 I'm trying to learn the following programming languages
 - TypeScript
